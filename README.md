@@ -1,7 +1,7 @@
 
 ### Hi there, I'm İsmail Can 👋
 
-I'm a full-stack developper working mainly in the .NET ecosystem.
+I am an expert in web design and I'm a full-stack developper working mainly in the .NET ecosystem.
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
