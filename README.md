@@ -16,11 +16,9 @@ I am an expert in web design and I'm a full-stack developper working mainly in t
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Where to find me 📫
-* [Instagram](https://www.instagram.com/ismailcankaratas_/)
-* [LinkedIn](https://www.linkedin.com/in/ismailcankaratas)
-* [Email](mailto:ismailcankaratasss@gmail.com)
 
-
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismailcankaratas/)](https://www.linkedin.com/in/ismailcankaratas) 
+[![GitHub Follow Badge](https://img.shields.io/github/followers/ismailcankaratas?label=follow&style=social)](https://github.com/ismailcankaratas)
 
 <!--
 ### Hi there 👋
