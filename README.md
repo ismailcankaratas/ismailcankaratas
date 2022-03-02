@@ -1,7 +1,9 @@
 
 ### Hi there, I'm İsmail Can 👋
 
-I am an expert in web design and I'm a full-stack developper working mainly in the .NET ecosystem.
+I am an expert in web design and I'm a full-stack developer working mainly in the .NET ecosystem.
+
+Writing code is what motivates me. Creating software out of nothing is a skill I'm really passionate about, and it's fun and good to produce something.
 <div align="center">
     
 ### ⚙️ &nbsp;GitHub Analytics
