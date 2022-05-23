@@ -8,7 +8,10 @@
 
 <p align="center">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ismailcankaratas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<!--
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ismailcankaratas&layout=compact&langs_count=8&theme=tokyonight"/>
+-->
+ 
 </p>
 
 <p align="center">Feel free to contact:</p>
