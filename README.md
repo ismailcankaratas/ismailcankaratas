@@ -17,9 +17,9 @@
 <p align="center">Feel free to contact:</p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/ismailcankaratas"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://stackoverflow.com/users/17546497/%c4%b0smail-can-karata%c5%9f"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"></a> 
-    <a href="https://www.instagram.com/ismailcankaratas_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
-  <a href="https://twitter.com/ismailcankarats"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="mailto:ismailcankaratasss@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/ismailcankaratas" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://stackoverflow.com/users/17546497/%c4%b0smail-can-karata%c5%9f" target="_blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"></a> 
+    <a href="https://www.instagram.com/ismailcankaratas_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+  <a href="https://twitter.com/ismailcankarats" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:ismailcankaratasss@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
