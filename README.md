@@ -2,7 +2,7 @@
 <h1 align="center">Hi there👋, I'm <a href="https://ismailcankaratas.github.io/">İsmail Can</a>!</h1> 
 <h3 align="center">Fullstack Developer.</h3>
 
-<h3 align="center">Check out my <a href="https://ismailcankaratas.github.io/" target="_blank">portfolio website</a> for my tech stack and more.</h3>
+<h3 align="center">Check out my <a href="https://ismailcankaratas.com.tr/" target="_blank">portfolio website</a> for my tech stack and more.</h3>
 
 <h3 align="center">:zap: GitHub Stats</p>
 
