@@ -4,6 +4,8 @@
 
 I'm a passionate Full Stack Developer with a strong focus on Artificial Intelligence and Language Model technologies. I specialize in building scalable web applications and innovative AI-powered solutions. My toolbox includes **React** for sleek frontends, **Node.js** for robust backends, and a range of modern AI frameworks and tools. I love turning complex ideas into elegant, intelligent products.
 
+[LinkedIn](https://www.linkedin.com/in/ismailcankaratas/) | [Website](https://ismailcankaratas.com.tr/) | [Twitter](https://x.com/ismailcankarats)
+
 ---
 
 ### 🛠️ Tech Stack
@@ -34,13 +36,7 @@ I'm a passionate Full Stack Developer with a strong focus on Artificial Intellig
   Festive raffle application for holiday events.
 - [movie_app](https://github.com/ismailcankaratas/movie_app)  
   Movie catalog and discovery platform.
-
----
-
-### 🌐 Let's Connect
-
-[LinkedIn](https://www.linkedin.com/in/ismailcankaratas/) | [Website](https://ismailcankaratas.com.tr/) | [Twitter](https://x.com/ismailcankarats)
-
+  
 ---
 
 #### ⚡ Fun Fact
