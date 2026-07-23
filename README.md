@@ -45,13 +45,7 @@ Currently I'm working on ERP systems, Shopify applications, marketplace integrat
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ismailcankaratas&show_icons=true&theme=tokyonight" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailcankaratas&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailcankaratas&layout=compact&theme=tokyonight"/>
-
 </p>
 
 --- 
