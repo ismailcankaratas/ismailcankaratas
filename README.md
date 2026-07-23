@@ -14,7 +14,7 @@ Currently I'm working on ERP systems, Shopify applications, marketplace integrat
 
 ## 🛠 Tech Stack
 
-![Languages](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,redis,docker,github,linux)
+![Languages](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,graphql,mongodb,redis,docker,linux)
 
 ## 🌍 Connect
 
