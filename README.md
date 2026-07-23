@@ -1,47 +1,58 @@
-# Hi there, I'm Ismail Can Karatas 👋
+# Hi there 👋
 
-## 🚀 Full Stack & AI Developer
+### Full Stack & AI Developer from 🇹🇷
 
-I'm a passionate Full Stack Developer with a strong focus on Artificial Intelligence and Language Model technologies. I specialize in building scalable web applications and innovative AI-powered solutions. My toolbox includes **React** for sleek frontends, **Node.js** for robust backends, and a range of modern AI frameworks and tools. I love turning complex ideas into elegant, intelligent products.
 
-[LinkedIn](https://www.linkedin.com/in/ismailcankaratas/) | [Website](https://ismailcankaratas.com.tr/) | [Twitter](https://x.com/ismailcankarats)
+I build AI-powered products, enterprise integrations, and scalable backend systems.
 
----
+My primary focus is designing intelligent applications using Large Language Models, AI Agents, real-time communication, and modern web technologies.
 
-### 🛠️ Tech Stack
-- **Frontend:** React, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, MSSQL, Redis, QDrant
-- **AI & ML:** GPT models, LangChain, Transformers, QDrant, OpenAI API
-- **Other:** REST APIs, Git, Docker
+Currently I'm working on ERP systems, Shopify applications, marketplace integrations, FinTech solutions, and AI-driven developer tools.
+
 
 ---
 
-### 🤖 AI & Language Model Projects
+## 🛠 Tech Stack
 
-- [assistant-gpt](https://github.com/ismailcankaratas/assistant-gpt)  
-  AI-powered assistant leveraging state-of-the-art GPT technology.
-- [lmwebui](https://github.com/ismailcankaratas/lmwebui)  
-  Modern Web UI for experimenting with language models and generative AI.
+![Languages](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,redis,docker,github,linux)
+
+## 🌍 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ismailcankaratas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://ismailcankaratas.com.tr" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/ismailcankarats" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <a href="https://medium.com/@ismailcankaratas" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+
+  <a href="https://stackoverflow.com/users/17546497/%c4%b0smail-can-karata%c5%9f" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 📌 Other Featured Projects
+## 📊 GitHub Stats
 
-- [dbcopycat](https://github.com/ismailcankaratas/dbcopycat)  
-  Tool for easy database duplication and migration.
-- [inventory-management](https://github.com/ismailcankaratas/inventory-management)  
-  Inventory tracking system for businesses.
-- [christmas-raffle](https://github.com/ismailcankaratas/christmas-raffle)  
-  Festive raffle application for holiday events.
-- [movie_app](https://github.com/ismailcankaratas/movie_app)  
-  Movie catalog and discovery platform.
-  
----
+<p align="center">
 
-#### ⚡ Fun Fact
-I believe in lifelong learning and enjoy exploring new AI technologies to make digital experiences smarter every day.
+<img src="https://github-readme-stats.vercel.app/api?username=ismailcankaratas&show_icons=true&theme=tokyonight" />
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailcankaratas&theme=tokyonight"/>
 
-_Thanks for visiting my profile!_
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailcankaratas&layout=compact&theme=tokyonight"/>
+
+</p>
+
+--- 
+⭐ Thanks for visiting my profile.
