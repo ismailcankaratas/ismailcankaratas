@@ -1,22 +1,45 @@
-# Hi there 👋
+# Hi, I'm İsmail Can Karataş 👋
 
-### Full Stack & AI Developer from 🇹🇷
+### Full Stack & AI Developer 🇹🇷
 
+I build **AI-powered applications, enterprise software, and scalable backend systems**.
 
-I build AI-powered products, enterprise integrations, and scalable backend systems.
+My work focuses on combining modern web technologies with **LLMs, AI Agents, real-time systems, and enterprise integrations** to build production-ready products.
 
-My primary focus is designing intelligent applications using Large Language Models, AI Agents, real-time communication, and modern web technologies.
+Currently working on:
 
-Currently I'm working on ERP systems, Shopify applications, marketplace integrations, FinTech solutions, and AI-driven developer tools.
+* 🤖 **AI Agents & LLM Integrations**
+* 🏢 **ERP & Enterprise Applications**
+* 🛒 **Shopify & Marketplace Integrations**
+* 💳 **FinTech & Payment Systems**
+* ⚡ **Real-time & Event-driven Systems**
+* 🧩 **MCP-based AI Tools & Developer Automation**
 
+---
+
+## 🧠 AI & Backend
+
+`OpenAI` · `AI Agents` · `MCP` · `Node.js` · `TypeScript` · `Express` ·  `REST APIs` · `WebSockets`
+
+## 🎨 Frontend
+
+`React` · `Next.js` · `React Native` · `Tailwind CSS`
+
+## 🗄️ Data & Infrastructure
+
+`MSSQL` · `MongoDB` · `Redis` · `Qdrant` · `Docker` · `Linux` · `Git`
 
 ---
 
 ## 🛠 Tech Stack
 
-![Languages](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,graphql,mongodb,redis,docker,linux)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,mongodb,redis,docker,linux,git,github" />
+</p>
 
-## 🌍 Connect
+---
+
+## 🌍 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ismailcankaratas/" target="_blank">
@@ -42,11 +65,14 @@ Currently I'm working on ERP systems, Shopify applications, marketplace integrat
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailcankaratas&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailcankaratas&theme=tokyonight" />
 </p>
 
---- 
-⭐ Thanks for visiting my profile.
+---
+
+<p align="center">
+  <b>Building intelligent software, one integration at a time.</b>
+</p>
