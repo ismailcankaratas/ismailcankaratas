@@ -2,40 +2,60 @@
 
 ### Full Stack & AI Developer 🇹🇷
 
-I build **AI-powered applications, enterprise software, and scalable backend systems**.
+I build **AI-powered products, enterprise software, and scalable backend systems** — from idea to production.
 
-My work focuses on combining modern web technologies with **LLMs, AI Agents, real-time systems, and enterprise integrations** to build production-ready products.
+My work combines modern web technologies with **LLMs, AI Agents, Voice AI, and enterprise integrations** to solve real business problems.
 
-Currently working on:
+## 🚀 What I'm Building
 
-* 🤖 **AI Agents & LLM Integrations**
-* 🏢 **ERP & Enterprise Applications**
+* 🎯 **[Lethiring](https://lethiring.com)** — AI-powered recruiting SaaS: CV parsing, candidate–job match scoring, interview question generation, and an **AI voice phone line** that screens candidates over the phone.
+* 🤖 **Claude Code tooling** — open-source agents and developer automation:
+  * **[opus-orchestrator](https://github.com/ismailcankaratas/opus-orchestrator)** — Opus-led multi-agent workflow: plan, delegate, implement, test and review with specialized agents.
+  * **[orbit](https://github.com/ismailcankaratas/orbit)** — local-first observability for Claude Code: projects, sessions, tokens and estimated API value.
+
+## 💼 Experience Highlights
+
+* 🏢 **ERP & Enterprise** — POS, e-Invoice / e-Waybill, stock, finance and marketplace integration modules
+* 🧠 **AI Assistants** — RAG-based "Smart ERP Assistant" with OpenAI + Qdrant, AI agents that automate real workflows
 * 🛒 **Shopify & Marketplace Integrations**
 * 💳 **FinTech & Payment Systems**
+* 🏥 **HealthTech** — hospital management UI and FHIR-compliant integrations
 * ⚡ **Real-time & Event-driven Systems**
-* 🧩 **MCP-based AI Tools & Developer Automation**
 
 ---
 
 ## 🧠 AI & Backend
 
-`OpenAI` · `AI Agents` · `MCP` · `Node.js` · `TypeScript` · `Express` ·  `REST APIs` · `WebSockets`
+`OpenAI` · `Claude` · `AI Agents` · `MCP` · `RAG` · `Voice AI` · `Node.js` · `TypeScript` · `Python` · `Express` · `REST APIs` · `WebSockets`
 
-## 🎨 Frontend
+## 🎨 Frontend & Mobile
 
-`React` · `Next.js` · `React Native` · `Tailwind CSS`
+`React` · `Next.js` · `React Native` · `Expo` · `Tailwind CSS`
 
 ## 🗄️ Data & Infrastructure
 
-`MSSQL` · `MongoDB` · `Redis` · `Qdrant` · `Docker` · `Linux` · `Git`
+`PostgreSQL` · `Prisma` · `MSSQL` · `MongoDB` · `Redis` · `Qdrant` · `Docker` · `Vercel` · `Linux` · `Git`
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,mongodb,redis,docker,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,react,nextjs,tailwind,postgres,prisma,mongodb,redis,docker,vercel,linux,git,github" />
 </p>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+| --- | --- |
+| [opus-orchestrator](https://github.com/ismailcankaratas/opus-orchestrator) | Multi-agent software engineering workflow for Claude Code |
+| [orbit](https://github.com/ismailcankaratas/orbit) | Local-first observability for Claude Code |
+| [saas-multi-tenant-starter](https://github.com/ismailcankaratas/saas-multi-tenant-starter) | Full-stack multi-tenant SaaS starter with auth, roles & permissions |
+| [rag-example](https://github.com/ismailcankaratas/rag-example) | RAG implementation example with Qdrant |
+| [desk-robot](https://github.com/ismailcankaratas/desk-robot) | Local voice desk robot with Raspberry Pi + Ollama (STT → LLM → TTS) |
+| [dbcopycat](https://github.com/ismailcankaratas/dbcopycat) | File-based JSON database with easy CRUD operations |
 
 ---
 
@@ -68,7 +88,7 @@ Currently working on:
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailcankaratas&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=ismailcankaratas&theme=tokyonight" />
 </p>
 
 ---
