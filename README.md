@@ -63,11 +63,10 @@ I’m building Lethiring to cut the busywork out of hiring: CV parsing, candidat
 
 | Project | What to look for |
 | :--- | :--- |
-| [mcp-mssql](https://github.com/ismailcankaratas/mcp-mssql) | An MCP server that lets Claude query MSSQL safely, from natural language to SQL. |
-| [lmwebui](https://github.com/ismailcankaratas/lmwebui) | A privacy-focused web UI for local Ollama models. |
-| [desk-robot](https://github.com/ismailcankaratas/desk-robot) | A local voice robot on Raspberry Pi: speech → Ollama → spoken reply. |
 | [voice-assistant](https://github.com/ismailcankaratas/voice-assistant) | A natural-language voice assistant with OpenAI and Python. |
 | [dbcopycat](https://github.com/ismailcankaratas/dbcopycat) | A file-based JSON database with simple CRUD. |
+| [inventory-management](https://github.com/ismailcankaratas/inventory-management) | Stock, orders, sales and deliveries in one TypeScript system. |
+| [break-out-game](https://github.com/ismailcankaratas/break-out-game) | The classic brick breaker with React and HTML Canvas. Play it in the browser. |
 
 <details>
 <summary><b>Stack</b></summary>
