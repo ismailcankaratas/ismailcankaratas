@@ -14,7 +14,7 @@
 
 I’m **İsmail Can**, a full stack & AI developer from Istanbul. I build AI agents, voice AI and enterprise software, and take them from idea to production.
 
-Before going independent I built ERP modules, marketplace integrations and a RAG-based ERP assistant at Proentegre, and hospital software with FHIR integrations before that. Here you can explore the open-source tools that came out of that work.
+Over the years I’ve built ERP modules, marketplace integrations, RAG-based assistants and hospital software with FHIR integrations. Here you can explore the open-source tools that came out of that work.
 
 ## Start here
 
