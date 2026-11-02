@@ -1,98 +1,89 @@
-# Hi, I'm İsmail Can Karataş 👋
-
-### Full Stack & AI Developer 🇹🇷
-
-I build **AI-powered products, enterprise software, and scalable backend systems** — from idea to production.
-
-My work combines modern web technologies with **LLMs, AI Agents, Voice AI, and enterprise integrations** to solve real business problems.
-
-## 🚀 What I'm Building
-
-* 🎯 **[Lethiring](https://lethiring.com)** — AI-powered recruiting SaaS: CV parsing, candidate–job match scoring, interview question generation, and an **AI voice phone line** that screens candidates over the phone.
-* 🤖 **Claude Code tooling** — open-source agents and developer automation:
-  * **[opus-orchestrator](https://github.com/ismailcankaratas/opus-orchestrator)** — Opus-led multi-agent workflow: plan, delegate, implement, test and review with specialized agents.
-  * **[orbit](https://github.com/ismailcankaratas/orbit)** — local-first observability for Claude Code: projects, sessions, tokens and estimated API value.
-
-## 💼 Experience Highlights
-
-* 🏢 **ERP & Enterprise** — POS, e-Invoice / e-Waybill, stock, finance and marketplace integration modules
-* 🧠 **AI Assistants** — RAG-based "Smart ERP Assistant" with OpenAI + Qdrant, AI agents that automate real workflows
-* 🛒 **Shopify & Marketplace Integrations**
-* 💳 **FinTech & Payment Systems**
-* 🏥 **HealthTech** — hospital management UI and FHIR-compliant integrations
-* ⚡ **Real-time & Event-driven Systems**
-
----
-
-## 🧠 AI & Backend
-
-`OpenAI` · `Claude` · `AI Agents` · `MCP` · `RAG` · `Voice AI` · `Node.js` · `TypeScript` · `Python` · `Express` · `REST APIs` · `WebSockets`
-
-## 🎨 Frontend & Mobile
-
-`React` · `Next.js` · `React Native` · `Expo` · `Tailwind CSS`
-
-## 🗄️ Data & Infrastructure
-
-`PostgreSQL` · `Prisma` · `MSSQL` · `MongoDB` · `Redis` · `Qdrant` · `Docker` · `Vercel` · `Linux` · `Git`
-
----
-
-## 🛠 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,react,nextjs,tailwind,postgres,prisma,mongodb,redis,docker,vercel,linux,git,github" />
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="İsmail Can Karataş. Full Stack & AI Developer, Istanbul.">
 </p>
-
----
-
-## 📌 Featured Projects
-
-| Project | Description |
-| --- | --- |
-| [opus-orchestrator](https://github.com/ismailcankaratas/opus-orchestrator) | Multi-agent software engineering workflow for Claude Code |
-| [orbit](https://github.com/ismailcankaratas/orbit) | Local-first observability for Claude Code |
-| [saas-multi-tenant-starter](https://github.com/ismailcankaratas/saas-multi-tenant-starter) | Full-stack multi-tenant SaaS starter with auth, roles & permissions |
-| [rag-example](https://github.com/ismailcankaratas/rag-example) | RAG implementation example with Qdrant |
-| [desk-robot](https://github.com/ismailcankaratas/desk-robot) | Local voice desk robot with Raspberry Pi + Ollama (STT → LLM → TTS) |
-| [dbcopycat](https://github.com/ismailcankaratas/dbcopycat) | File-based JSON database with easy CRUD operations |
-
----
-
-## 🌍 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ismailcankaratas/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://ismailcankaratas.com.tr" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-
-  <a href="https://x.com/ismailcankarats" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-
-  <a href="https://medium.com/@ismailcankaratas" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-
-  <a href="https://stackoverflow.com/users/17546497/%c4%b0smail-can-karata%c5%9f" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ismailcankaratas&theme=tokyonight" />
+  <a href="https://ismailcankaratas.com.tr"><b>Website</b></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/ismailcankaratas/"><b>LinkedIn</b></a> &nbsp; / &nbsp;
+  <a href="https://x.com/ismailcankarats"><b>X</b></a> &nbsp; / &nbsp;
+  <a href="https://medium.com/@ismailcankaratas"><b>Medium</b></a> &nbsp; / &nbsp;
+  <a href="mailto:ismailcankaratasss@gmail.com"><b>Get in touch</b></a>
 </p>
+
+<br>
+
+I’m **İsmail Can**, a full stack & AI developer from Istanbul. I build AI agents, voice AI and enterprise software, and take them from idea to production.
+
+Before going independent I built ERP modules, marketplace integrations and a RAG-based ERP assistant at Proentegre, and hospital software with FHIR integrations before that. Here you can explore the open-source tools that came out of that work.
+
+## Start here
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>01 / AGENTS</sub>
+      <h3><a href="https://github.com/ismailcankaratas/opus-orchestrator">Opus Orchestrator</a></h3>
+      <p>An Opus-led multi-agent workflow for Claude Code. Plan, delegate, implement, test and review with specialized agents.</p>
+      <p><a href="https://github.com/ismailcankaratas/opus-orchestrator"><b>Run the fleet →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 / OBSERVABILITY</sub>
+      <h3><a href="https://github.com/ismailcankaratas/orbit">Orbit</a></h3>
+      <p>Local-first observability for Claude Code: projects, sessions, tokens and estimated API value. Nothing leaves your machine.</p>
+      <p><a href="https://github.com/ismailcankaratas/orbit"><b>See where the tokens go →</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>03 / SAAS</sub>
+      <h3><a href="https://github.com/ismailcankaratas/saas-multi-tenant-starter">Multi-Tenant SaaS Starter</a></h3>
+      <p>A full-stack multi-tenant starter kit with authentication, roles, permissions and a clean UI.</p>
+      <p><a href="https://github.com/ismailcankaratas/saas-multi-tenant-starter"><b>Start your SaaS →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>04 / RAG</sub>
+      <h3><a href="https://github.com/ismailcankaratas/rag-example">RAG with Qdrant</a></h3>
+      <p>A compact example of retrieval-augmented generation on top of the Qdrant vector database.</p>
+      <p><a href="https://github.com/ismailcankaratas/rag-example"><b>Read the pipeline →</b></a></p>
+    </td>
+  </tr>
+</table>
+
+## On the workbench: Lethiring
+
+**AI-powered hiring for teams that recruit at scale.**
+
+I’m building Lethiring to cut the busywork out of hiring: CV parsing, candidate–job match scoring, interview questions and job posts. The newest piece is an **AI voice phone line** that answers candidates who call, asks the screening questions and hands the hiring manager a ready shortlist.
+
+**In active development.** The codebase is private.
+
+[Visit Lethiring](https://lethiring.com)
+
+## A few more to open
+
+| Project | What to look for |
+| :--- | :--- |
+| [desk-robot](https://github.com/ismailcankaratas/desk-robot) | A local voice robot on Raspberry Pi: speech → Ollama → spoken reply. |
+| [voice-assistant](https://github.com/ismailcankaratas/voice-assistant) | A natural-language voice assistant with OpenAI and Python. |
+| [dbcopycat](https://github.com/ismailcankaratas/dbcopycat) | A file-based JSON database with simple CRUD. |
+| [inventory-management](https://github.com/ismailcankaratas/inventory-management) | Stock, orders, sales and deliveries in one TypeScript system. |
+| [break-out-game](https://github.com/ismailcankaratas/break-out-game) | The classic brick breaker in plain JavaScript. |
+
+<details>
+<summary><b>Stack</b></summary>
+<br>
+
+`TypeScript` · `Node.js` · `Python` · `Next.js` · `React` · `React Native` · `Tailwind CSS`<br>
+`OpenAI` · `Claude` · `MCP` · `RAG` · `Voice AI`<br>
+`PostgreSQL` · `Prisma` · `MSSQL` · `MongoDB` · `Redis` · `Qdrant` · `Docker` · `Vercel`
+
+</details>
+
+<br>
 
 ---
 
 <p align="center">
-  <b>Building intelligent software, one integration at a time.</b>
+  <b>Build. Ship. Integrate. Repeat.</b><br>
+  <sub>For freelance work and collaborations: <a href="mailto:ismailcankaratasss@gmail.com">ismailcankaratasss@gmail.com</a></sub>
 </p>
